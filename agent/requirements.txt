@@ -1,0 +1,4 @@
+anthropic>=1.15.0
+composio>=0.28.0
+composio-anthropic>=0.28.0
+python-dotenv>=1.2.4
